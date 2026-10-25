@@ -1,0 +1,7 @@
+Designator,Part,Footprint,Quantity,Total Cost (USD),Link
+U1,Waveshare ESP32-S3-Zero,Waveshare ESP32-S3-Zero,1,6.62,https://www.aliexpress.com/item/1005007004089798.html
+"SW1, SW2, SW3",Kailh Choc Low-Profile Switch,Kailh Choc Low-Profile Switches,3,6.04,https://www.aliexpress.com/item/1005008883418065.html
+SW4,EC11 Rotary Encoder,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,1.44,https://www.aliexpress.com/item/1005007644083514.html
+"D1, D2, D3",SK6812MINI-E RGB LED,LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,3,3.36,https://www.aliexpress.com/item/1005007863635868.html
+J1,Capacitive touch keys (PCB copper),Capacitive Keys,1,0.00,
+PCB,2-layer PCB from JLCPCB (5 pcs),,1,FILL_FROM_QUOTE,https://jlcpcb.com/

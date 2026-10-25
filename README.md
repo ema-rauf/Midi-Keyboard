@@ -24,6 +24,19 @@ I wanted to learn PCB design from start to finish: drawing a schematic, making a
 - 3 SK6812MINI-E RGB LEDs, reverse-mounted to shine through the board
 - Waveshare ESP32-S3-Zero, plugs in over USB-C
 
+## Parts list
+
+| Designator | Part | Qty | Cost (USD) |
+|---|---|---|---|
+| U1 | Waveshare ESP32-S3-Zero | 1 | 6.62 |
+| SW1-SW3 | Kailh Choc low-profile switch | 3 | 6.04 |
+| SW4 | EC11 rotary encoder (20 mm shaft, with switch) | 1 | 1.44 |
+| D1-D3 | SK6812MINI-E RGB LED (reverse mount) | 3 | 3.36 |
+| J1 | Capacitive touch keys (copper on the PCB) | 1 | 0.00 |
+| PCB | 2-layer PCB from JLCPCB (5 pcs) | 1 | see quote |
+
+Full list with links: [BOM.csv](BOM.csv)
+
 ## Pin map
 
 | Part | Pins |
