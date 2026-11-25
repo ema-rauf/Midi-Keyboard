@@ -37,8 +37,6 @@ I wanted to learn PCB design from start to finish: drawing a schematic, making a
 
 The 7 capacitive touch keys (J1) are bare copper on the PCB, so they are part of the PCB line and have no separate cost.
 
-Shipping: AliExpress $1.99 for the four parts, JLCPCB $2.00 for the boards (estimates from the carts). The AliExpress cart also applied small discounts, but the table uses the listed prices. Cart screenshots: `images/aliexpress-cart.png` and `images/jlcpcb-cart.png`.
-
 Full list with links: [BOM.csv](BOM.csv)
 
 ## Pin map
