@@ -1,6 +1,7 @@
-Designator,Part,Footprint,Quantity,Unit Price (USD),Total Cost (USD),Link,Notes
-U1,Waveshare ESP32-S3-Zero,Waveshare ESP32-S3-Zero,1,6.98,6.98,https://www.aliexpress.com/item/1005012733231291.html,
-"SW1, SW2, SW3",Kailh Choc Low-Profile Switch (pack of 10),Kailh Choc Low-Profile Switches,1,5.03,5.03,https://www.aliexpress.com/item/1005008883418065.html,Pack of 10; 3 are used
-SW4,EC11 Rotary Encoder (B 20mm half handle),RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,1.09,1.09,https://www.aliexpress.com/item/1005007644083514.html,
-"D1, D2, D3",SK6812MINI-E RGB LED (pack),LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,1,3.16,3.16,https://www.aliexpress.com/item/1005008591589739.html,3 are used
-PCB,"2-layer 1.6mm FR-4 PCB, 90.6 x 86.6 mm (JLCPCB, 5 pcs; includes the 7 copper touch keys)",MIDI-keypad.kicad_pcb,5,0.80,4.00,https://cart.jlcpcb.com/quote,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+SK6812MINI-E,1,Ali Express,$3.16,$3.16,https://www.aliexpress.com/item/1005008591589739.html
+Kailh Choc switch,1,Ali Express,$5.03,$5.03,https://www.aliexpress.com/item/1005008883418065.html
+RotaryEncoder_Switch_MP,1,Ali Express,$1.09,$1.09,https://www.aliexpress.com/item/1005007644083514.html
+Waveshare ESP32-S3-ZERO,1,Ali Express,$6.98,$6.98,https://www.aliexpress.com/item/1005012733231291.html
+"PCB (2-layer, 1.6mm, 90.6 x 86.6 mm)",5,JLCPCB,$0.80,$4.00,https://cart.jlcpcb.com/quote
+Estimated total shipping,1,,,$16.60,
