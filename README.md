@@ -26,14 +26,18 @@ I wanted to learn PCB design from start to finish: drawing a schematic, making a
 
 ## Parts list
 
-| Designator | Part | Qty | Cost (USD) |
-|---|---|---|---|
-| U1 | Waveshare ESP32-S3-Zero | 1 | 6.62 |
-| SW1-SW3 | Kailh Choc low-profile switch | 3 | 6.04 |
-| SW4 | EC11 rotary encoder (20 mm shaft, with switch) | 1 | 1.44 |
-| D1-D3 | SK6812MINI-E RGB LED (reverse mount) | 3 | 3.36 |
-| J1 | Capacitive touch keys (copper on the PCB) | 1 | 0.00 |
-| PCB | 2-layer PCB from JLCPCB (5 pcs) | 1 | see quote |
+| Designator | Part | Qty | Unit price (USD) | Total (USD) |
+|---|---|---|---|---|
+| U1 | [Waveshare ESP32-S3-Zero](https://www.aliexpress.com/item/1005012733231291.html) | 1 | 6.98 | 6.98 |
+| SW1-SW3 | [Kailh Choc low-profile switch, pack of 10 (3 used)](https://www.aliexpress.com/item/1005008883418065.html) | 1 | 5.03 | 5.03 |
+| SW4 | [EC11 rotary encoder, 20 mm shaft, with switch](https://www.aliexpress.com/item/1005007644083514.html) | 1 | 1.09 | 1.09 |
+| D1-D3 | [SK6812MINI-E RGB LED, pack (3 used)](https://www.aliexpress.com/item/1005008591589739.html) | 1 | 3.16 | 3.16 |
+| PCB | [2-layer 1.6 mm FR-4 PCB, 90.6 x 86.6 mm, JLCPCB (5 pcs)](https://cart.jlcpcb.com/quote) | 5 | 0.80 | 4.00 |
+| | **Total (before shipping)** | | | **20.26** |
+
+The 7 capacitive touch keys (J1) are bare copper on the PCB, so they are part of the PCB line and have no separate cost.
+
+Shipping: AliExpress $1.99 for the four parts, JLCPCB $2.00 for the boards (estimates from the carts). The AliExpress cart also applied small discounts, but the table uses the listed prices. Cart screenshots: `images/aliexpress-cart.png` and `images/jlcpcb-cart.png`.
 
 Full list with links: [BOM.csv](BOM.csv)
 
